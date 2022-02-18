@@ -1,4 +1,4 @@
-## Olá! Eu sou o Lucas Costa 👨‍💻🖐️
+## Olá! Eu sou o Lucas da Costa 👨‍💻🖐️
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascplusmart&show_icons=true&theme=dracula&count_private=true)
 ## Tecnologias que eu uso no meu dia
